@@ -31,14 +31,3 @@ This brings us to equations, which is even harder, because individual mathematic
 
 There are two approaches to teach the computer, both require heaps of various different sample documents. The programmer can try to discover the rules, and tell the computer how paragraphs, tables and lists look in general. The other method involves artificial intelligence, where the computer itself learns from the humans. This usually involves manually marking up every paragraph, table cell, chart, illustration, and use machine learning. However, a totally new document layout that the computer has never seen will always cause problems. At some point the computer will get smart enough, but there’s always a situation where a human can beat it. For example, give the computer a 1000 year old document, and it will totally fail. Or teach the computer Latin text only, then give it a Chinese financial document, and it will struggle considerably.
 
-
-## Paraphraser
-
-
-
-
-## Image compressor
-
-
-
-## 
