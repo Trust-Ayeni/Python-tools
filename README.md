@@ -21,11 +21,11 @@ These Python tools are useful for a variety of tasks, such as data extraction, t
 
 
 ### Mathematics: 📝💻
-In this code, the lcm function calculates the LCM by iteratively computing the least common multiple between two numbers using the formula: LCM(a, b) = (a * b) / GCD(a, b). The GCD (Greatest Common Divisor) function is defined separately using the Euclidean algorithm.
+In the second code, the lcm function calculates the LCM by iteratively computing the least common multiple between two numbers using the formula: LCM(a, b) = (a * b) / GCD(a, b). The GCD (Greatest Common Divisor) function is defined separately using the Euclidean algorithm.
 
 When you run the code and enter the numbers 10, 20, 30, it will output 60, which is the Lowest Common Multiple of those numbers.
 
 
-The second code iterates from 1 to the smallest number in the list and checks if all the numbers in the list are divisible by that current number. If so, it adds the number to the set of common factors. Finally, it prints the set of common factors.
+The first code iterates from 1 to the smallest number in the list and checks if all the numbers in the list are divisible by that current number. If so, it adds the number to the set of common factors. Finally, it prints the set of common factors.
 
 For example, if you input the numbers 4 and 6, the code will output The common factors of the given numbers are: {1, 2} since 1 and 2 are the common factors of both 4 and 6.
